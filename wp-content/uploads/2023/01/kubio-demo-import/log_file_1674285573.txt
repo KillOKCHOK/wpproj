@@ -1,0 +1,419 @@
+
+------
+[INFO] Prepare remote import
+
+
+---Downloaded files---
+The import files for: https://s3.us-west-2.amazonaws.com/static-assets.kubiobuilder.com/demo-sites/production/car-presentation-free/content.kds were successfully downloaded!
+
+------
+[INFO] Executing before import step: init
+
+
+------
+[INFO] Executing before import step: prepare_templates
+
+
+------
+[INFO] Executing before import step: prepare_template_parts
+
+
+------
+[INFO] Executing before import step: prepare_menus
+
+
+------
+[INFO] Executing before import step: prepare_pages
+
+
+------
+[INFO] Imported "Uncategorized" (category)
+
+
+------
+[INFO] Imported "Primary menu" (nav_menu)
+
+
+------
+[WARNING] Failed to import "": Invalid post type 
+
+
+------
+[INFO] Imported "Home" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "logo-white" (Media)
+
+
+------
+[INFO] Imported "logo-dark" (Media)
+
+
+------
+[INFO] Imported "sebin-lalu-10IYRzI3j1g-unsplash" (Media)
+
+
+------
+[INFO] Imported "samuele-errico-piccarini-FMbWFDiVRPs-unsplash" (Media)
+
+
+------
+[INFO] Imported "sebastiaan-stam-4lqMd_XBlfU-unsplash" (Media)
+
+
+------
+[INFO] Imported "dennis-eusebio-D19rXKDUPYM-unsplash" (Media)
+
+
+------
+[INFO] Imported "chad-kirchoff-xe-e69j6-Ds-unsplash" (Media)
+
+
+------
+[INFO] Imported "lucho-renolfi-9pW_u2wynx0-unsplash" (Media)
+
+
+------
+[INFO] Imported "wassim-chouak-drTdCrGJRD8-unsplash" (Media)
+
+
+------
+[INFO] Imported "nathan-trampe-GeDrP-52aJU-unsplash" (Media)
+
+
+------
+[INFO] Imported "roberto-nickson-IOI3KCYsn0o-unsplash" (Media)
+
+
+------
+[INFO] Imported "damian-ochrymowicz-Dhol4s3fS_Y-unsplash" (Media)
+
+
+------
+[INFO] Imported "brandon-atchison-eBJWhlqWR54-unsplash" (Media)
+
+
+------
+[INFO] Imported "martin-zdrazil-dfXIl9plFjM-unsplash" (Media)
+
+
+------
+[INFO] Imported "tyler-clemmensen-d1Jum1vVLew-unsplash" (Media)
+
+
+------
+[INFO] Imported "angus-gray-ooGR7NRVt0g-unsplash" (Media)
+
+
+------
+[INFO] Imported "chris-liverani-HUJDz6CJEaM-unsplash" (Media)
+
+
+------
+[INFO] Imported "kubio-featured-image" (Media)
+
+
+------
+[INFO] Imported "Sample Page" (Page)
+
+
+------
+[INFO] Imported "Privacy Policy" (Page)
+
+
+------
+[INFO] Imported "Front Page" (Page)
+
+
+------
+[INFO] Imported "Blog" (Page)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "404" (Template)
+
+
+------
+[INFO] Imported "Archive Product" (Template)
+
+
+------
+[INFO] Imported "Front Page" (Template)
+
+
+------
+[INFO] Imported "Full Width" (Template)
+
+
+------
+[INFO] Imported "Index" (Template)
+
+
+------
+[INFO] Imported "Page" (Template)
+
+
+------
+[INFO] Imported "Search" (Template)
+
+
+------
+[INFO] Imported "Single Product" (Template)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "Contact" (Page)
+
+
+------
+[INFO] Imported "" (Navigation Menu Item)
+
+
+------
+[INFO] Imported "Specs" (Page)
+
+
+------
+[INFO] Imported "Lorem ipsum" (Post)
+
+
+------
+[INFO] Imported "Lorem Ipsum" (Post)
+
+
+------
+[INFO] Imported "Lorem Ipsum" (Post)
+
+
+------
+[INFO] Imported "Single Post" (Template)
+
+
+------
+[INFO] Imported "Footer" (Template Part)
+
+
+------
+[INFO] Imported "Front Header" (Template Part)
+
+
+------
+[INFO] Imported "Header" (Template Part)
+
+
+------
+[INFO] Imported "Sidebar" (Template Part)
+
+
+------
+[INFO] Imported "Contact form 1" (Contact Form)
+
+
+------
+[INFO] Posts post processing
+
+
+------
+[WARNING] Could not find the author for "Home" (post #55)
+
+
+------
+[WARNING] Could not find the author for "logo-white.png" (post #56)
+
+
+------
+[WARNING] Could not find the author for "logo-dark.png" (post #57)
+
+
+------
+[WARNING] Could not find the author for "sebin-lalu-10IYRzI3j1g-unsplash-scaled-e1638436247372.jpeg" (post #58)
+
+
+------
+[WARNING] Could not find the author for "samuele-errico-piccarini-FMbWFDiVRPs-unsplash-scaled-e1638360591866.jpeg" (post #59)
+
+
+------
+[WARNING] Could not find the author for "sebastiaan-stam-4lqMd_XBlfU-unsplash-scaled-e1638436236809.jpeg" (post #60)
+
+
+------
+[WARNING] Could not find the author for "dennis-eusebio-D19rXKDUPYM-unsplash-scaled-e1638436228201.jpeg" (post #61)
+
+
+------
+[WARNING] Could not find the author for "chad-kirchoff-xe-e69j6-Ds-unsplash-scaled-e1638436220403.jpeg" (post #62)
+
+
+------
+[WARNING] Could not find the author for "lucho-renolfi-9pW_u2wynx0-unsplash-scaled-e1638436144186.jpeg" (post #63)
+
+
+------
+[WARNING] Could not find the author for "wassim-chouak-drTdCrGJRD8-unsplash-scaled-e1638436212968.jpeg" (post #64)
+
+
+------
+[WARNING] Could not find the author for "nathan-trampe-GeDrP-52aJU-unsplash-scaled-e1638436205937.jpeg" (post #65)
+
+
+------
+[WARNING] Could not find the author for "roberto-nickson-IOI3KCYsn0o-unsplash-e1638436199350.jpeg" (post #66)
+
+
+------
+[WARNING] Could not find the author for "damian-ochrymowicz-Dhol4s3fS_Y-unsplash-scaled-e1638436192793.jpeg" (post #67)
+
+
+------
+[WARNING] Could not find the author for "brandon-atchison-eBJWhlqWR54-unsplash-scaled-e1638436185795.jpeg" (post #68)
+
+
+------
+[WARNING] Could not find the author for "martin-zdrazil-dfXIl9plFjM-unsplash-scaled-e1638436178292.jpeg" (post #69)
+
+
+------
+[WARNING] Could not find the author for "tyler-clemmensen-d1Jum1vVLew-unsplash-scaled-e1638436170476.jpeg" (post #70)
+
+
+------
+[WARNING] Could not find the author for "angus-gray-ooGR7NRVt0g-unsplash-scaled-e1638368972418.jpeg" (post #71)
+
+
+------
+[WARNING] Could not find the author for "chris-liverani-HUJDz6CJEaM-unsplash-scaled-e1638369028683.jpeg" (post #72)
+
+
+------
+[WARNING] Could not find the author for "kubio-featured-image.jpg" (post #73)
+
+
+------
+[WARNING] Could not find the author for "Sample Page" (post #74)
+
+
+------
+[WARNING] Could not find the author for "Privacy Policy" (post #75)
+
+
+------
+[WARNING] Could not find the author for "Front Page" (post #85)
+
+
+------
+[WARNING] Could not find the author for "Blog" (post #86)
+
+
+------
+[WARNING] Could not find the author for "" (post #87)
+
+
+------
+[WARNING] Could not find the author for "404" (post #11)
+
+
+------
+[WARNING] Could not find the author for "Archive Product" (post #12)
+
+
+------
+[WARNING] Could not find the author for "Front Page" (post #13)
+
+
+------
+[WARNING] Could not find the author for "Full Width" (post #14)
+
+
+------
+[WARNING] Could not find the author for "Index" (post #15)
+
+
+------
+[WARNING] Could not find the author for "Page" (post #16)
+
+
+------
+[WARNING] Could not find the author for "Search" (post #17)
+
+
+------
+[WARNING] Could not find the author for "Single Product" (post #18)
+
+
+------
+[WARNING] Could not find the author for "" (post #88)
+
+
+------
+[WARNING] Could not find the author for "Contact" (post #172)
+
+
+------
+[WARNING] Could not find the author for "" (post #176)
+
+
+------
+[WARNING] Could not find the author for "Specs" (post #178)
+
+
+------
+[WARNING] Could not find the author for "Lorem ipsum" (post #246)
+
+
+------
+[WARNING] Could not find the author for "Lorem Ipsum" (post #247)
+
+
+------
+[WARNING] Could not find the author for "Lorem Ipsum" (post #248)
+
+
+------
+[WARNING] Could not find the author for "Single Post" (post #19)
+
+
+------
+[WARNING] Could not find the author for "Footer" (post #20)
+
+
+------
+[WARNING] Could not find the author for "Front Header" (post #21)
+
+
+------
+[WARNING] Could not find the author for "Header" (post #22)
+
+
+------
+[WARNING] Could not find the author for "Sidebar" (post #23)
+
+
+------
+[WARNING] Could not find the author for "Contact form 1" (post #183)
+
+
+------
+[INFO] Starting remapping of featured images
+
+
+------
+[INFO] Remapping featured image ID 249 to new ID 73 for post ID 246
+
+
+------
+[INFO] Remapping featured image ID 249 to new ID 73 for post ID 247
+
+
+------
+[INFO] Remapping featured image ID 249 to new ID 73 for post ID 248
+

@@ -1,0 +1,1841 @@
+# Translation of Themes - OnePress in Ukrainian
+# This file is distributed under the same license as the Themes - OnePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-09-09 06:38:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - OnePress\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "OnePress"
+msgstr "OnePress"
+
+#: inc/customize-configs/options-colors.php:54
+msgid "Secondary Color"
+msgstr "Вторинний колір"
+
+#: inc/customize-configs/options-single.php:30
+msgid "Right Sidebar"
+msgstr "Бічна колонка справа"
+
+#: inc/customize-configs/options-single.php:28
+msgid "No Sidebar"
+msgstr "Немає бічної панелі"
+
+#: inc/class-sections-navigation.php:191
+msgid "Label Color"
+msgstr "Колір лейбла"
+
+#: inc/class-config.php:88
+msgid "Testimonials"
+msgstr "Відгуки"
+
+#: inc/class-config.php:76
+msgid "Pricing Table"
+msgstr "Таблиця цін"
+
+#: inc/class-config.php:70
+msgid "Map"
+msgstr "Карта"
+
+#: inc/class-config.php:58
+msgid "Our Clients"
+msgstr "Наші клієнти"
+
+#: inc/admin/dashboard.php:258
+msgid "Demo Import"
+msgstr "Підтримка Online"
+
+#: inc/admin/dashboard.php:252
+msgid "Overview"
+msgstr "Огляд"
+
+#: inc/admin/dashboard.php:178
+msgid "Settings saved"
+msgstr "Збережено"
+
+#: inc/extras.php:409
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "d.m.Y"
+
+#: inc/extras.php:407
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/extras.php:405
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/customize-configs/section-news.php:150
+msgid "Full content"
+msgstr "Весь зміст"
+
+#: inc/customize-configs/section-news.php:149
+msgid "Strip excerpt by more tag"
+msgstr "Скоротити уривок з міткою \"Далі\""
+
+#: inc/customize-configs/section-news.php:148
+msgid "Use excerpt metabox"
+msgstr "Використовувати метабокс уривка"
+
+#: inc/customize-configs/section-news.php:147
+msgid "Custom"
+msgstr "Довільний"
+
+#: inc/customize-configs/options-blog-posts.php:15
+msgid "Blog Posts"
+msgstr "Публікації блогів"
+
+#: inc/class-sections-navigation.php:130
+msgid "Dots color"
+msgstr "Колір крапок"
+
+#: inc/class-config.php:111
+msgid "Home"
+msgstr "Головна"
+
+#: inc/admin/dashboard.php:291
+msgid "Create a support ticket"
+msgstr "Створити запит в підтримку"
+
+#: inc/customize-configs/options-header.php:345
+msgid "Transparent Logo Height in Pixel"
+msgstr "Висота прозорого логотипу в пікселях"
+
+#: inc/customize-configs/section-hero.php:542
+msgid "Open Button #2 In New Window"
+msgstr "Кнопка #2 відкрити в новому вікні"
+
+#: inc/customize-configs/section-hero.php:476
+msgid "Open Button #1 In New Window"
+msgstr "Кнопка #1 відкрити в новому вікні"
+
+#: inc/metabox.php:175
+msgid "Apply header cover settings for single product."
+msgstr "Застосувати налаштування обкладинки шапки для окремого товару."
+
+#: inc/admin/dashboard.php:412
+msgid "Keep %s updated"
+msgstr "Тримати %s оновленим"
+
+#: inc/admin/dashboard.php:333
+msgid "Your settings were copied."
+msgstr "Ваші налаштування скопійовані."
+
+#: inc/metabox.php:166
+msgid "Hide footer."
+msgstr "Приховати підвал."
+
+#: inc/metabox.php:155
+msgid "Display page excerpt as header cover description."
+msgstr "Відобразити уривок сторінки як опис обкладинки шапки."
+
+#: inc/metabox.php:149
+msgid "Display featured image as header cover."
+msgstr "Відобразити головне зображення як обкладинку шапки."
+
+#: inc/metabox.php:143
+msgid "Hide page title area."
+msgstr "Приховати зону заголовку сторінки."
+
+#: inc/metabox.php:138
+msgid "Hide header."
+msgstr "Приховати шапку."
+
+#: inc/metabox.php:161
+msgid "Hide breadcrumb."
+msgstr "Приховати хлібні крихти."
+
+#: inc/customize-configs/options-header.php:179
+msgid "Only set if display site tagline."
+msgstr "Встановити лише якщо відображається ключова фраза сайту."
+
+#: inc/customize-configs/options-header.php:177
+msgid "Site Tagline Color"
+msgstr "Колір ключової фрази сайту"
+
+#. Template Name of the theme
+msgid "Full Width - Contained Content"
+msgstr "На всю ширину - обмеженний вміст"
+
+#. Template Name of the theme
+msgid "Full Width - Stretched Content"
+msgstr "На всю ширину - розтягнутий вміст"
+
+#: inc/sanitize.php:273
+msgid "Upgrade to %1s to unlock this feature."
+msgstr "Оновити до %1s, для розблокування цієї особливості."
+
+#: inc/metabox.php:38
+msgid "Page Settings"
+msgstr "Налаштування сторінки"
+
+#: inc/admin/dashboard.php:621
+msgid "Get OnePress Plus now!"
+msgstr "Отримай OnePress Plus зараз!"
+
+#: inc/admin/dashboard.php:256
+msgid "Free vs PLUS"
+msgstr "Безкоштовно в порівнянні з PLUS"
+
+#: inc/admin/dashboard.php:253
+msgid "Recommended Actions"
+msgstr "Рекомендовані дії"
+
+#: inc/customize-configs/section-upsell.php:38
+msgid "OnePress Plus Available! Take a look"
+msgstr "Доступний OnePress Plus! Ознайомтесь"
+
+#: inc/customize-configs/section-upsell.php:28
+msgid "<h4 class=\"customizer-group-heading-message\">Drag &amp; Drop Section Orders</h4><p class=\"customizer-group-heading-message\">Check out the <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> version for full control over the frontpage SECTIONS ORDER!</p><h4 class=\"customizer-group-heading-message\">Advanced Section Styling</h4><p class=\"customizer-group-heading-message\">Check out the <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> version for full control over the section styling which includes background color, image, video, parallax effect, custom style and more ...</p>"
+msgstr "<h4 class=\"customizer-group-heading-message\">Розсташування секцій за допомогою перетягувань</h4><p class=\"customizer-group-heading-message\">Спробуйте <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> версія для повного контролю РОЗСТАШУВАННЯ СЕКЦІЙ на головній сторінці!</p><h4 class=\"customizer-group-heading-message\">Розширене налаштування розділів</h4><p class=\"customizer-group-heading-message\">Спробуйте <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> версія для повного контролю налаштування розділів, що включає колір фону, зображення, відео, ефект паралаксу, користувацьки стилі та багато іншого ...</p>"
+
+#: inc/customize-configs/section-news.php:247
+msgid "Ascending"
+msgstr "Висхідний"
+
+#: inc/customize-configs/section-news.php:246
+msgid "Descending"
+msgstr "Низхідний"
+
+#: inc/customize-configs/section-news.php:242
+msgid "Order"
+msgstr "Порядок"
+
+#: inc/customize-configs/section-news.php:227
+msgid "Random order"
+msgstr "Випадковий порядок"
+
+#: inc/customize-configs/section-news.php:226
+msgid "Order by Page Order"
+msgstr "Упорядкувати за порядком сторінки"
+
+#: inc/customize-configs/section-news.php:225
+msgid "Comment Count"
+msgstr "Кількість коментарів"
+
+#: inc/customize-configs/section-news.php:224
+msgid "Date"
+msgstr "Дата"
+
+#: inc/customize-configs/section-news.php:222
+msgid "Author"
+msgstr "Автор"
+
+#: inc/customize-configs/section-news.php:221
+msgid "ID"
+msgstr "ID"
+
+#: inc/customize-configs/options-single.php:27
+#: inc/customize-configs/section-news.php:220
+msgid "Default"
+msgstr "За замовчуванням"
+
+#: inc/customize-configs/section-news.php:216
+msgid "Order By"
+msgstr "Сортувати за"
+
+#: inc/customize-configs/section-news.php:200
+msgid "Category to show"
+msgstr "Категорія для показу"
+
+#: inc/customize-configs/section-services.php:214
+msgid "1x"
+msgstr "1x"
+
+#: inc/customize-configs/section-services.php:213
+msgid "2x"
+msgstr "2x"
+
+#: inc/customize-configs/section-services.php:212
+msgid "3x"
+msgstr "3x"
+
+#: inc/customize-configs/section-services.php:211
+msgid "4x"
+msgstr "4x"
+
+#: inc/customize-configs/section-services.php:210
+msgid "5x"
+msgstr "5x"
+
+#: inc/customize-configs/section-services.php:205
+msgid "Icon Size"
+msgstr "Розмір іконки"
+
+#: inc/customize-configs/section-about.php:112
+msgid "Layout Settings"
+msgstr "Налаштування макету"
+
+#: inc/customize-configs/section-hero.php:393
+msgid "Rotating Text Background"
+msgstr "Фон поворотного тексту"
+
+#: inc/customize-configs/section-hero.php:378
+msgid "Rotating Text Color"
+msgstr "Колір поворотного тексту"
+
+#: inc/customize-configs/section-hero.php:354
+msgid "We are <span class=\"js-rotating\">OnePress | One Page | Responsive | Perfection</span>"
+msgstr "Ми це <span class=\"js-rotating\">OnePress | One Page | Responsive | Perfection</span>"
+
+#: inc/customize-configs/section-hero.php:311
+msgid "Want to add <strong>background video</strong> for hero section? Upgrade to <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> version."
+msgstr "Хочете додати <strong>відео на фон</strong> для розділу Головний? Оновіться до  <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> версії."
+
+#: inc/customize-configs/section-hero.php:81
+msgid "Disable Preload Icon"
+msgstr "Приховати іконку попереднього завантаження"
+
+#: inc/customize-configs/options-footer.php:332
+msgid "Footer Copyright"
+msgstr "Авторське право в підвалі"
+
+#: inc/customize-configs/options-footer.php:320
+#: inc/customize-configs/options-footer.php:386
+msgid "Link Hover Color"
+msgstr "Колір наведення на посилання"
+
+#: inc/customize-configs/options-footer.php:304
+#: inc/customize-configs/options-footer.php:373
+msgid "Link Color"
+msgstr "Колір посилання"
+
+#: inc/customize-configs/options-footer.php:287
+msgid "Widget Title Color"
+msgstr "Колір заголовку віджету"
+
+#: inc/customize-configs/options-footer.php:238
+msgid "Enter int numbers and sum of them must smaller or equal 12, separated by \"+\""
+msgstr "Введіть цілі числа, їх сума повинна бути меншою або рівною 12, розділені  \"+\""
+
+#: inc/customize-configs/options-footer.php:236
+msgid "Custom footer %s columns width"
+msgstr "Ширина %s колонок користувацького підвалу"
+
+#: inc/customize-configs/options-footer.php:236
+msgid "Custom footer 1 column width"
+msgstr "Ширина 1 колонки користувацького підвалу"
+
+#: inc/customize-configs/options-footer.php:212
+msgid "Disable footer widgets"
+msgstr "Вимкнути віджети підвалу"
+
+#: inc/customize-configs/options-footer.php:206
+msgid "Number footer columns to display."
+msgstr "Кількість колонок підвалу для відображення."
+
+#: inc/customize-configs/options-footer.php:186
+msgid "Footer Widgets"
+msgstr "Віджети підвалу"
+
+#: inc/customize-configs/options-footer.php:174
+#: inc/customize-configs/options-footer.php:254
+#: inc/customize-configs/options-footer.php:360
+msgid "Text Color"
+msgstr "Колір тексту"
+
+#: inc/customize-configs/options-footer.php:78
+#: inc/customize-configs/section-about.php:159
+#: inc/customize-configs/section-counter.php:131
+#: inc/customize-configs/section-features.php:156
+#: inc/customize-configs/section-services.php:158
+#: inc/customize-configs/section-team.php:153
+msgid "Upgrade to <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> to be able to add more items and unlock other premium features!"
+msgstr "Оновити до <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> щоб мати змогу додавати більше елементів та розблокувати інші преміальні  premium можливості!"
+
+#: inc/customize-configs/options-footer.php:6
+msgid "Footer Socials"
+msgstr "Соціальний мережі у підвалі"
+
+#: inc/customize-configs/options-page.php:129
+#: inc/customize-configs/options-page.php:154
+msgid "Right"
+msgstr "Праворуч"
+
+#: inc/customize-configs/options-page.php:128
+#: inc/customize-configs/options-page.php:153
+msgid "Left"
+msgstr "Ліворуч"
+
+#: inc/customize-configs/options-page.php:130
+#: inc/customize-configs/options-page.php:152
+msgid "Center"
+msgstr "Центр"
+
+#: inc/customize-configs/options-page.php:83
+msgid "Color"
+msgstr "Колір"
+
+#: inc/customize-configs/options-page.php:65
+msgid "The page cover padding bottom in percent (%)."
+msgstr "Внутрішній відступ обкладинки сторінки знизу у відсотках (%)."
+
+#: inc/customize-configs/options-page.php:64
+msgid "Padding Bottom"
+msgstr "Внутрішній відступ знизу"
+
+#: inc/customize-configs/options-page.php:48
+msgid "The page cover padding top in percent (%)."
+msgstr "Внутрішній відступ обкладинки сторінки зверху у відсотках (%)."
+
+#: inc/customize-configs/options-page.php:47
+msgid "Padding Top"
+msgstr "Внутрішній відступ зверху"
+
+#: inc/customize-configs/options-page.php:32
+msgid "Check this box to disable the page title bar on all pages."
+msgstr "Позначте щоб вимкнути заголовок сторінки на усіх сторінках."
+
+#: inc/customize-configs/options-page.php:30
+msgid "Disable Page Title bar?"
+msgstr "Вимкнути заголовок сторінки?"
+
+#: inc/customize-configs/options-page.php:12
+msgid "Page Title Area"
+msgstr "Зона заголовку сторінки"
+
+#: inc/customize-configs/options-navigation.php:22
+msgid "Padding left and right for Navigation items (pixels)."
+msgstr "Внутрішні відступи з ліва та з права для елементів навігації (пікселі)."
+
+#: inc/customize-configs/options-navigation.php:21
+msgid "Menu Item Padding"
+msgstr "Внутрішні відступи елемента меню"
+
+#: inc/customize-configs/options-navigation.php:7
+msgid "Navigation"
+msgstr "Навігація"
+
+#: inc/customize-configs/options-header.php:382
+msgid "Transparent Site Tagline Color"
+msgstr "Прозорий колір ключової фрази сайту"
+
+#: inc/customize-configs/options-header.php:363
+msgid "Transparent Site Title Color"
+msgstr "Прозорий колір заголовку сайту"
+
+#: inc/customize-configs/options-header.php:325
+msgid "Transparent Retina Logo"
+msgstr "Прозорий логотип Retina"
+
+#: inc/customize-configs/options-header.php:306
+#: inc/customize-configs/options-header.php:326
+msgid "Only apply when transparent header option is checked."
+msgstr "Застосовується лише при налаштованому прозорому заголовку."
+
+#: inc/customize-configs/options-header.php:304
+msgid "Transparent Logo"
+msgstr "Прозорий логотип"
+
+#: inc/customize-configs/options-header.php:60
+msgid "Below Hero Slider"
+msgstr "Під Головним слайдером"
+
+#: inc/customize-configs/options-header.php:59
+msgid "Top"
+msgstr "Верх"
+
+#: inc/customize-configs/options-header.php:56
+msgid "Header Position"
+msgstr "Розташування заголовку"
+
+#: inc/customize-configs/options-header.php:36
+msgid "Contained"
+msgstr "Обмеженний"
+
+#: inc/customize-configs/options-header.php:32
+msgid "Header Width"
+msgstr "Ширина заголовку"
+
+#: inc/customize-configs/options-global.php:83
+msgid "Check this if you want to disable default google fonts in theme."
+msgstr "Відмітьте якщо хочете вимкнути в темі google fonts за замовчанням."
+
+#: inc/customize-configs/options-global.php:81
+msgid "Disable Google Fonts"
+msgstr "Вимкнути Google Fonts"
+
+#: inc/customize-configs/site-identity.php:70
+msgid "Logo Height In Pixel"
+msgstr "Висота логотипу в пікселях"
+
+#: inc/customize-configs/site-identity.php:52
+msgid "Retina Logo"
+msgstr "Логотип Retina"
+
+#: inc/customize-controls/control-category.php:28
+msgid "All"
+msgstr "Все"
+
+#: functions.php:229
+msgid "Footer %s"
+msgstr "Підвал %s"
+
+#: comments.php:32
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "Один коментар до &ldquo;%2$s&rdquo;"
+
+#: inc/customize-configs/options-single.php:79
+msgid "Check this box to show single post meta such as post date, author, category,..."
+msgstr "Відмітьте якщо хочете показувати такі метаданні як дата допису, автор, категорія і т.д. на окремому записі"
+
+#: inc/customize-configs/options-single.php:77
+msgid "Show single post meta"
+msgstr "Показувати метаданні на окремому записі"
+
+#: inc/customize-configs/options-single.php:64
+msgid "Check this box to show post thumbnail on single post."
+msgstr "Відмітьте щоб показувати мініатюру запису на окремому записі."
+
+#: inc/customize-configs/options-single.php:62
+msgid "Show single post thumbnail"
+msgstr "Показівати мініатюру на окремому записі"
+
+#: inc/customize-configs/options-single.php:8
+msgid "Single Post"
+msgstr "Окремий запис"
+
+#: inc/customize-configs/section-hero.php:203
+msgid "The amount of time in between slides, expressed as the number of milliseconds."
+msgstr "Кількість часу між слайдами, виражена як число мілісекунд."
+
+#: inc/customize-configs/section-hero.php:202
+msgid "Slider duration speed"
+msgstr "Швидкість тривалості слайдера"
+
+#: inc/customize-configs/section-hero.php:186
+msgid "This is the speed at which the image will fade in. Integers in milliseconds are accepted."
+msgstr "Це швидкість, з якою зображення зникне. Цілі числа в мілісекундах приймаються."
+
+#: inc/customize-configs/section-hero.php:185
+msgid "Slider animation speed"
+msgstr "Швидкість анімації слайдера"
+
+#: inc/customize-configs/section-hero.php:167
+msgid "Text animation speed"
+msgstr "Швидкість анімації тексту"
+
+#: inc/admin/dashboard.php:311
+msgid "Child theme uses it's own theme setting name, would you like to copy setting data from parent theme to this child theme?"
+msgstr "Тема нащадок використовує власну назву налаштування теми, чи хочете ви скопіювати дані налаштування з батьківської теми до цієї теми нащадка?"
+
+#: inc/customizer.php:197
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: inc/customizer.php:193
+msgid "Search"
+msgstr "Пошук"
+
+#: inc/admin/dashboard.php:702
+msgid "Are you sure want to copy ?"
+msgstr "Ви впевнені що хочете скопіювати?"
+
+#: inc/admin/dashboard.php:350
+msgid "Recommend Plugins"
+msgstr "Рекомендовані плагіни"
+
+#: inc/admin/dashboard.php:330
+msgid "Copy now"
+msgstr "Копіювати зараз"
+
+#: inc/admin/dashboard.php:322
+msgid "To Theme"
+msgstr "До теми"
+
+#: inc/admin/dashboard.php:316
+msgid "From Theme"
+msgstr "З теми"
+
+#: inc/admin/dashboard.php:309
+msgid "You're using %1$s theme, It's a child theme of OnePress"
+msgstr "Ви використовуєте тему %1$s, яка є темою нащадком OnePress"
+
+#: inc/admin/dashboard.php:770
+msgid "Details"
+msgstr "Подробиці"
+
+#: inc/admin/dashboard.php:125
+msgid "Import Demo Data"
+msgstr "Імпортувати демо-дані"
+
+#: inc/admin/dashboard.php:125
+msgid "Save time by import our demo data, your website will be set up and ready to customize in minutes. %s"
+msgstr "Економте час, імпортуючи наші демонстраційні дані, ваш веб-сайт буде встановлений і готовий до налаштування в лічені хвилини. %s"
+
+#: inc/customize-configs/section-gallery.php:366
+msgid "Read More Text"
+msgstr "Текст читати далі"
+
+#: inc/customize-configs/section-gallery.php:360
+#: section-parts/section-gallery.php:37
+msgid "View More"
+msgstr "Переглянути більше"
+
+#: inc/customize-configs/section-gallery.php:349
+msgid "Read More Link"
+msgstr "Посилання Читати далі"
+
+#: inc/customize-configs/options-global.php:31
+msgid "No sidebar"
+msgstr "Без бічної колонки"
+
+#: inc/customize-configs/options-global.php:30
+msgid "Left sidebar"
+msgstr "Ліва бічна колонка"
+
+#: inc/customize-configs/options-global.php:29
+msgid "Right sidebar"
+msgstr "Права бічна колонка"
+
+#: inc/customize-configs/options-global.php:26
+msgid "Site Layout, apply for all pages, exclude home page and custom page templates."
+msgstr "Макет сайту, застосувати до всіх сторінок, виключивши домашню сторінку та користувацьки шаблони сторінок."
+
+#: inc/customize-configs/options-global.php:25
+msgid "Site Layout"
+msgstr "Макет сайту"
+
+#: functions.php:110
+msgid "Famethemes Demo Importer"
+msgstr "Famethemes Demo Importer"
+
+#: functions.php:216
+msgid "WooCommerce Sidebar"
+msgstr "Бічна колонка WooCommerce"
+
+#: inc/customize-configs/section-about.php:120
+#: inc/customize-configs/section-services.php:120
+msgid "1 Column"
+msgstr "1 колонка"
+
+#: inc/customize-configs/section-gallery.php:313
+msgid "Enable Lightbox"
+msgstr "Увімкнути Lightbox"
+
+#: inc/customize-configs/section-gallery.php:297
+msgid "Number items"
+msgstr "Кількість елементів"
+
+#: inc/customize-configs/section-gallery.php:270
+msgid "Layout columns"
+msgstr "Розміщення колонок"
+
+#: inc/customize-configs/section-gallery.php:252
+msgid "Row Height"
+msgstr "Висота рядку"
+
+#: inc/customize-configs/section-gallery.php:234
+msgid "Item Spacing"
+msgstr "Відступ навколо елемента"
+
+#: inc/customize-configs/section-gallery.php:218
+msgid "Masonry"
+msgstr "Плитка"
+
+#: inc/customize-configs/section-gallery.php:217
+msgid "Justified"
+msgstr "По ширині"
+
+#: inc/class-config.php:51 inc/customize-configs/section-gallery.php:216
+msgid "Slider"
+msgstr "Слайдер"
+
+#: inc/customize-configs/section-gallery.php:215
+msgid "Carousel"
+msgstr "Карусель"
+
+#: inc/customize-configs/section-gallery.php:214
+msgid "Grid"
+msgstr "Сітка"
+
+#: inc/customize-configs/section-gallery.php:209
+msgid "Display"
+msgstr "Відображення"
+
+#: inc/customize-configs/section-gallery.php:192
+msgid "Default, inside container"
+msgstr "По замовчуванню, всередині контейнера"
+
+#: inc/customize-configs/options-footer.php:203
+#: inc/customize-configs/section-gallery.php:187
+msgid "Layout"
+msgstr "Компонування"
+
+#: inc/customize-configs/section-gallery.php:166
+msgid "Select Gallery Page"
+msgstr "Обрати сторінку Галерея"
+
+#: inc/customize-configs/section-gallery.php:147
+msgid "Page"
+msgstr "Сторінка"
+
+#: inc/customize-configs/section-gallery.php:142
+msgid "Select Gallery Source"
+msgstr "Обрати джерело Галереї"
+
+#: inc/class-config.php:142 inc/customize-configs/section-gallery.php:68
+#: section-parts/section-gallery.php:4
+msgid "Gallery"
+msgstr "Галерея"
+
+#: inc/customize-configs/section-gallery.php:51
+msgid "gallery"
+msgstr "галерея"
+
+#: inc/class-config.php:141 inc/customize-configs/section-gallery.php:12
+msgid "Section: Gallery"
+msgstr "Розділ: Галерея"
+
+#: inc/customize-configs/options-header.php:116
+msgid "Scroll to top when click to the site logo or site title, only apply on front page."
+msgstr "Переміщатись угору, коли натискаєте логотип або назву сайту, застосовувати лише на головній сторінці."
+
+#: inc/admin/dashboard.php:682
+msgid "FameThemes Demo Importer"
+msgstr "FameThemes Demo Importer"
+
+#: inc/admin/dashboard.php:681
+msgid "Hey."
+msgstr "Привіт."
+
+#: inc/admin/dashboard.php:677
+msgid "%1$s you will need to install and activate the %2$s plugin first."
+msgstr "%1$s спершу необхідно встановити та активувати плагін %2$s."
+
+#: inc/admin/dashboard.php:660 inc/admin/dashboard.php:750
+msgid "Active Now"
+msgstr "Активувати зараз"
+
+#: inc/admin/dashboard.php:639 inc/admin/dashboard.php:729
+msgid "Install Now"
+msgstr "Встановити зараз"
+
+#: inc/customize-configs/section-hero.php:519
+msgid "Button #2 style"
+msgstr "Стиль кнопки #2"
+
+#: inc/customize-configs/section-news.php:297
+msgid "More News Button Text"
+msgstr "Текст кнопки Більше новин"
+
+#: inc/customize-configs/section-news.php:268
+msgid "It should be your blog page link."
+msgstr "Це має бути посилання на ваш блог."
+
+#: inc/customize-configs/section-hero.php:464
+#: inc/customize-configs/section-hero.php:530
+msgid "Danger"
+msgstr "Небезпека"
+
+#: inc/customize-configs/section-hero.php:463
+#: inc/customize-configs/section-hero.php:529
+msgid "Warning"
+msgstr "Увага"
+
+#: inc/customize-configs/section-hero.php:462
+#: inc/customize-configs/section-hero.php:528
+msgid "Info"
+msgstr "Інформація"
+
+#: inc/customize-configs/section-hero.php:461
+#: inc/customize-configs/section-hero.php:527
+msgid "Success"
+msgstr "Успішно"
+
+#: inc/customize-configs/section-hero.php:460
+#: inc/customize-configs/section-hero.php:526
+msgid "Primary"
+msgstr "Головна"
+
+#: inc/customize-configs/section-hero.php:459
+#: inc/customize-configs/section-hero.php:525
+msgid "Button"
+msgstr "Кнопка"
+
+#: inc/customize-configs/section-hero.php:458
+#: inc/customize-configs/section-hero.php:524
+msgid "Button Secondary"
+msgstr "Допоміжна кнопка"
+
+#: inc/customize-configs/section-hero.php:457
+#: inc/customize-configs/section-hero.php:523
+msgid "Button Primary"
+msgstr "Головна кнопка"
+
+#: inc/customize-configs/section-hero.php:453
+msgid "Button #1 style"
+msgstr "Стиль кнопки #1"
+
+#: inc/customize-configs/section-hero.php:113
+msgid "The hero content padding bottom in percent (%)."
+msgstr "Внутрішній відступ знизу від Головного вмісту у відсотках (%)."
+
+#: inc/customize-configs/section-hero.php:97
+msgid "The hero content padding top in percent (%)."
+msgstr "Внутрішній відступ зверху від Головного вмісту у відсотках (%)."
+
+#: inc/customize-configs/section-hero.php:168
+msgid "The delay between the changing of each phrase in milliseconds."
+msgstr "Затримка між зміною кожної фрази в мілісекундах."
+
+#: inc/customize-configs/site-identity.php:32
+msgid "Hide site tagline"
+msgstr "Приховати ключову фразу сайту"
+
+#: inc/customize-configs/site-identity.php:17
+msgid "Hide site title"
+msgstr "Приховати заголовок сайту"
+
+#: inc/customize-configs/section-features.php:167
+#: inc/customize-configs/section-services.php:165
+msgid "image"
+msgstr "зображення"
+
+#: inc/customize-configs/section-hero.php:148
+msgid "Text animation"
+msgstr "Анімація тексту"
+
+#: inc/admin/dashboard.php:92
+msgid "OnePress Theme %s"
+msgstr "Тема OnePress %s"
+
+#: inc/admin/dashboard.php:90
+msgid "%1$s action required"
+msgid_plural "%1$s actions required"
+msgstr[0] "%1$s необхідна дія"
+msgstr[1] "%1$s необхідні дії"
+msgstr[2] "%1$s необхідно дії"
+
+#: inc/customize-configs/options.php:26 inc/customize-configs/options.php:44
+msgid "Custom CSS"
+msgstr "Користувацькі CSS"
+
+#: section-parts/section-features.php:5
+msgid "Why choose Us"
+msgstr "Чому варто обрати нас"
+
+#: inc/customize-configs/section-services.php:112
+msgid "Services Layout Settings"
+msgstr "Налаштування макету Послуги"
+
+#: inc/customize-configs/section-features.php:185
+#: inc/customize-configs/section-news.php:267
+#: inc/customize-configs/section-team.php:161
+msgid "Custom Link"
+msgstr "Користувацьке посилання"
+
+#: inc/customize-configs/section-features.php:181
+msgid "Description"
+msgstr "Опис"
+
+#: inc/customize-configs/section-features.php:150
+msgid "Features content"
+msgstr "Вміст Особливості"
+
+#: inc/customize-configs/section-features.php:111
+msgid "Features Layout Setting"
+msgstr "Налаштування макету Особливості"
+
+#: inc/class-config.php:136 inc/customize-configs/section-features.php:58
+#: section-parts/section-features.php:4
+msgid "Features"
+msgstr "Особливості"
+
+#: inc/customize-configs/section-features.php:43
+msgid "features"
+msgstr "особливості"
+
+#: inc/class-config.php:135 inc/customize-configs/section-features.php:8
+msgid "Section: Features"
+msgstr "Розділ: Особливості"
+
+#: inc/customize-configs/section-about.php:95
+#: inc/customize-configs/section-contact.php:95
+#: inc/customize-configs/section-counter.php:94
+#: inc/customize-configs/section-features.php:95
+#: inc/customize-configs/section-gallery.php:110
+#: inc/customize-configs/section-news.php:95
+#: inc/customize-configs/section-services.php:95
+#: inc/customize-configs/section-team.php:94
+msgid "Section Description"
+msgstr "Розділ Опис"
+
+#: inc/customize-configs/section-features.php:176
+#: inc/customize-configs/section-hero.php:581
+#: inc/customize-configs/section-services.php:174
+msgid "Image"
+msgstr "Зображення"
+
+#: inc/customize-configs/section-hero.php:563
+msgid "Content Text"
+msgstr "Зміст"
+
+#: inc/customize-configs/section-hero.php:343
+msgid "Layout 2"
+msgstr "Макет 2"
+
+#: inc/customize-configs/section-hero.php:342
+msgid "Layout 1"
+msgstr "Макет 1"
+
+#: inc/customize-configs/section-hero.php:337
+msgid "Display Layout"
+msgstr "Відобразити макет"
+
+#: inc/customize-configs/options-footer.php:89
+msgid "URL"
+msgstr "URL"
+
+#: inc/customize-configs/options-footer.php:85
+#: inc/customize-configs/section-features.php:166
+#: inc/customize-configs/section-features.php:171
+#: inc/customize-configs/section-services.php:164
+#: inc/customize-configs/section-services.php:169
+msgid "Icon"
+msgstr "Іконка"
+
+#: inc/customize-configs/options-footer.php:81
+msgid "Social network"
+msgstr "Соціальні мережі"
+
+#: inc/customize-configs/options-footer.php:72
+msgid "Socials"
+msgstr "Соціальні мережі"
+
+#: inc/customize-configs/options-header.php:286
+msgid "Apply for front page template only."
+msgstr "Застозувати лише для макету головної сторінки."
+
+#: inc/customize-configs/options-header.php:284
+msgid "Header Transparent"
+msgstr "Прозорий заголовок"
+
+#: inc/template-tags.php:1818
+msgid "Subscribe"
+msgstr "Підписатися"
+
+#: inc/template-tags.php:1817
+msgid "Enter your e-mail address"
+msgstr "Введіть ваш e-mail"
+
+#: inc/admin/dashboard.php:289
+msgid "Support for %s WordPress theme is conducted through FameThemes support ticket system."
+msgstr "Підтримка для WordPress теми %s, ведеться через систему тікітів підтримки FameThemes."
+
+#: inc/admin/dashboard.php:283
+msgid "OnePress Documentation"
+msgstr "Документація OnePress"
+
+#: inc/customize-configs/section-about.php:119
+#: inc/customize-configs/section-features.php:118
+#: inc/customize-configs/section-services.php:119
+#: inc/customize-configs/section-team.php:117
+msgid "2 Columns"
+msgstr "2 колонки"
+
+#: inc/customize-configs/section-about.php:118
+#: inc/customize-configs/section-features.php:117
+#: inc/customize-configs/section-services.php:118
+#: inc/customize-configs/section-team.php:116
+msgid "3 Columns"
+msgstr "3 колонки"
+
+#: inc/customize-configs/section-about.php:117
+#: inc/customize-configs/section-features.php:116
+#: inc/customize-configs/section-services.php:117
+#: inc/customize-configs/section-team.php:115
+msgid "4 Columns"
+msgstr "4 колонки"
+
+#: inc/customize-configs/section-team.php:110
+msgid "Team Layout Settings"
+msgstr "Налаштування макету Команда"
+
+#: inc/customize-configs/section-about.php:196
+#: inc/customize-configs/section-features.php:210
+#: inc/customize-configs/section-services.php:235
+msgid "Page Excerpt"
+msgstr "Уривок сторінки"
+
+#: inc/customize-configs/section-about.php:195
+#: inc/customize-configs/section-features.php:209
+#: inc/customize-configs/section-services.php:234
+msgid "Full Page Content"
+msgstr "Повний вміст сторінки"
+
+#: inc/customize-configs/section-about.php:190
+#: inc/customize-configs/section-features.php:204
+#: inc/customize-configs/section-services.php:229
+msgid "Item content source"
+msgstr "Джерело вмісту елемента"
+
+#: inc/customize-configs/section-about.php:153
+msgid "About content page"
+msgstr "Вміст сторінки Про нас"
+
+#: inc/customize-configs/section-hero.php:293
+msgid "Enable parallax effect (apply for first BG image only)"
+msgstr "Увімкнути паралакс ефект (додається лише на перше зображення BG)"
+
+#: inc/customize-configs/options-header.php:99
+msgid "If you use logo and your logo is too tall, check this box to auto vertical align menu."
+msgstr "Якщо ви використовуєте логотип і ваш логотип занадто високий, поставте прапорець біля цього пункту для автоматичного вертикального вирівнювання меню."
+
+#: inc/customize-configs/options-header.php:97
+msgid "Center vertical align for menu"
+msgstr "Центр вертикального вирівнювання для меню"
+
+#: inc/customize-configs/options-header.php:262
+msgid "Responsive Menu Button Color"
+msgstr "Колір кнопки адаптивного меню"
+
+#: inc/customize-configs/options-header.php:241
+msgid "Menu Link Hover/Active BG Color"
+msgstr "BG колір посилання меню наведення/діючий"
+
+#: inc/customize-configs/options-header.php:219
+msgid "Menu Link Hover/Active Color"
+msgstr "Колір посилання меню наведення/діючий"
+
+#: inc/customize-configs/options-header.php:198
+msgid "Menu Link Color"
+msgstr "Колір посилання меню"
+
+#: inc/customize-configs/options-header.php:159
+msgid "Only set if you don't use an image logo."
+msgstr "Встановлюється лише якщо ви не використовуєте зображення як логотип."
+
+#: inc/customize-configs/options-header.php:157
+msgid "Site Title Color"
+msgstr "Колір назви сайту"
+
+#: inc/customize-configs/options-footer.php:270
+#: inc/customize-configs/options-header.php:135
+msgid "Background Color"
+msgstr "Фоновий колір"
+
+#: inc/customize-configs/options-header.php:12
+msgid "Header"
+msgstr "Заголовок"
+
+#: inc/customize-configs/options-colors.php:28
+msgid "Primary Color"
+msgstr "Основний колір"
+
+#: inc/customize-configs/options-colors.php:9
+msgid "Site Colors"
+msgstr "Кольори сайту"
+
+#: inc/customize-configs/section-team.php:156
+msgid "User media"
+msgstr "Медіа користувача"
+
+#: inc/customize-configs/section-videolightbox.php:98
+msgid "Background image"
+msgstr "Фонове зображення"
+
+#: inc/customize-configs/section-videolightbox.php:83
+msgid "Paste Youtube or Vimeo url here"
+msgstr "Вставьте тут посилання Youtube чи Vimeo"
+
+#: inc/customize-configs/section-videolightbox.php:81
+msgid "Video url"
+msgstr "Посилання відео"
+
+#: inc/customize-configs/section-videolightbox.php:66
+msgid "Section heading"
+msgstr "Заголовок розділу"
+
+#: inc/class-config.php:165 inc/customize-configs/section-videolightbox.php:8
+msgid "Section: Video Lightbox"
+msgstr "Розділ: Відео лайтбокс"
+
+#: inc/admin/dashboard.php:413
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Ура! Зараз немає жодної дії для вас."
+
+#: inc/admin/dashboard.php:403
+msgid "Change homepage page template"
+msgstr "Змінити шаблон головної сторінки"
+
+#: inc/admin/dashboard.php:389
+msgid "In order to change homepage section contents, you will need to set template \"Frontpage\" for your homepage."
+msgstr "У випадку зміни вмісту розділу головної сторінки, вам необхідно встановити шаблон \"Головна сторінка\" як головну сторінку."
+
+#: inc/admin/dashboard.php:386
+msgid "Set your homepage page template to \"Frontpage\"."
+msgstr "Встановити шаблон головна сторінка для \"Головна сторінка\"."
+
+#: inc/admin/dashboard.php:372 inc/admin/dashboard.php:396
+msgid "Setup front page displays"
+msgstr "Налаштувати відображення головної сторінки"
+
+#: inc/admin/dashboard.php:369
+msgid "In order to have the one page look for your website, please go to Customize -&gt; Static Front Page and switch \"Front page displays\" to \"A static page\"."
+msgstr "У випадку налаштування вигляду вашого сайту як односторінковий сайт, будь ласка перейдіть у Налаштування -&gt; Статична головна сторінка та перемкніть \"Відображення головної сторінки\" на \"Статична сторінка\"."
+
+#: inc/admin/dashboard.php:367
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr "Перемкніть \"Відображення головної сторінки\" на \"Статична сторінка\""
+
+#: inc/admin/dashboard.php:360 inc/admin/dashboard.php:379
+msgid "Dismiss"
+msgstr "Відхилити"
+
+#: inc/admin/dashboard.php:245
+msgid "Welcome to OnePress - Version %1s"
+msgstr "Ласкаво просимо до OnePress - Версія %1s"
+
+#: inc/admin/dashboard.php:115
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr "Ласкаво просимо! Дякуємо що обрали %1$s! Щоб скористатися усіма перевагами нашої теми, будь ласка відвідайте нашу <a href=\"%2$s\">Вітальну сторінку</a>"
+
+#: inc/admin/dashboard.php:94
+msgid "OnePress Theme"
+msgstr "Тема OnePress"
+
+#: inc/admin/dashboard.php:97
+msgid "OnePress Dashboard"
+msgstr "Майстерня OnePress"
+
+#: inc/customize-configs/options-page.php:102
+#: inc/customize-configs/section-hero.php:274
+msgid "Background Overlay Color"
+msgstr "Колір нашарування фону"
+
+#: inc/customize-configs/section-upsell.php:13
+msgid "Section Order & Styling"
+msgstr "Розділ Послідовність та Стиль"
+
+#: inc/customize-configs/options-header.php:80
+msgid "Check this box to disable sticky header when scroll."
+msgstr "Відмітьте щоб вимкнути прикріплений заголовок при прокрутці."
+
+#: inc/customize-configs/options-header.php:78
+msgid "Disable Sticky Header?"
+msgstr "Вимкнути Прикріпленний заголовок?"
+
+#. Template Name of the theme
+#: inc/customize-configs/options-single.php:29
+msgid "Left Sidebar"
+msgstr "Ліва бічна колонка"
+
+#: inc/customize-configs/options-header.php:35
+#: inc/customize-configs/section-gallery.php:193
+msgid "Full Width"
+msgstr "На всю ширину"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Головна сторінка"
+
+#: template-parts/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Схоже, що не вдалося знайти те, що ви шукаєте. Можливо допоможе пошук."
+
+#: template-parts/content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Вибачте, але за вашим пошуковим запитом нічого не знайдено. Будь ласка, спробуйте інші ключові слова."
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готові опублікувати свій перший запис? <a href=\"%1$s\">Почніть звідси</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: template-parts/content-list.php:78 template-parts/content-page.php:21
+#: template-parts/content-single.php:35 template-parts/content.php:47
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#: section-parts/section-hero.php:94
+msgid "#services"
+msgstr "#services"
+
+#: section-parts/section-contact.php:52
+msgid "You can install %1$s plugin and go to Customizer &rarr; Section: Contact &rarr; Section Content to show a working contact form here."
+msgstr "Ви можете встановити плагін  %1$s та перейти у Налаштовувач &rarr; Розділ: Контакт &rarr; Вміст розділу для відображення тут працюючої контактної форми."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Пошукові результати для: %s"
+
+#: inc/template-tags.php:497
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментар очікує на схвалення."
+
+#: inc/template-tags.php:492
+msgid "Edit"
+msgstr "Редагувати"
+
+#: inc/template-tags.php:485
+msgid "Reply"
+msgstr "Відповіcти"
+
+#: inc/template-tags.php:472
+msgid "Post author"
+msgstr "Автор запису"
+
+#: inc/template-tags.php:452
+msgid "(Edit)"
+msgstr "(Редагувати)"
+
+#: inc/template-tags.php:452
+msgid "Pingback:"
+msgstr "Сповіщення:"
+
+#: inc/template-tags.php:370
+msgid "% Comments"
+msgstr "% Коментарів"
+
+#: inc/template-tags.php:370
+msgid "1 Comment"
+msgstr "1 коментар"
+
+#: inc/template-tags.php:370
+msgid "Leave a comment"
+msgstr "Залишити коментар"
+
+#: inc/template-tags.php:364
+msgid "Tagged %1$s"
+msgstr "Позначено %1$s"
+
+#: inc/template-tags.php:358
+msgid "Posted in %1$s"
+msgstr "Опубліковано в %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:356 inc/template-tags.php:362
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:336
+msgctxt "post author"
+msgid "by %s"
+msgstr "від %s"
+
+#: inc/template-tags.php:331
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубліковано %s"
+
+#: inc/admin/dashboard.php:288
+msgid "Having Trouble, Need Support?"
+msgstr "Маєте питання, потрібна допомога?"
+
+#: inc/admin/dashboard.php:281
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "Потрібна допомога у встановленні чи налаштуванні %s? Будь ласка ознайомтесь з нашою документацією."
+
+#: inc/admin/dashboard.php:280
+msgid "Theme Documentation"
+msgstr "Документація теми"
+
+#: inc/admin/dashboard.php:276
+msgid "Start Customize"
+msgstr "Розпочати налаштування"
+
+#: inc/admin/dashboard.php:274
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s підтримує Налаштовувач теми для усіх налаштувань теми. Натисніть \"Налаштувати\" для початку налаштування вашого сайту."
+
+#: inc/admin/dashboard.php:273
+msgid "Theme Customizer"
+msgstr "Налаштовувач теми"
+
+#: inc/admin/dashboard.php:246
+msgid "OnePress is a creative and flexible WordPress ONE PAGE theme well suited for business, portfolio, digital agency, product showcase, freelancers websites."
+msgstr "OnePress це креативна та гнучка одно сторінкова WordPress тема, яка добре підходить для бізнесу, портфоліо, цифрових агентств, вітрин продуктів та фріланс веб-сайтів."
+
+#: inc/customize-configs/section-contact.php:253
+msgid "Fax"
+msgstr "Факс"
+
+#: inc/customize-configs/section-contact.php:238
+msgid "Email"
+msgstr "Email"
+
+#: inc/customize-configs/section-contact.php:223
+msgid "Phone"
+msgstr "Телефон"
+
+#: inc/customize-configs/section-contact.php:208
+msgid "Address"
+msgstr "Адреса"
+
+#: inc/customize-configs/section-contact.php:193
+msgid "Contact Box Title"
+msgstr "Заголовок вікна Контакти"
+
+#: inc/customize-configs/section-contact.php:169
+msgid "Contact Text"
+msgstr "Текст Контакти"
+
+#: inc/customize-configs/section-contact.php:154
+msgid "Check this box to hide contact form."
+msgstr "Відмітьте, щоб приховати контактну форму."
+
+#: inc/customize-configs/section-contact.php:152
+msgid "Hide contact form completely."
+msgstr "Повністю приховати контактну форму."
+
+#: inc/customize-configs/section-contact.php:136
+msgid "Contact Form Shortcode."
+msgstr "Скорочений код контактної форми."
+
+#: inc/class-config.php:123 inc/customize-configs/section-contact.php:58
+#: section-parts/section-contact.php:4
+msgid "Get in touch"
+msgstr "Зв'язатися з нами"
+
+#: inc/customize-configs/section-contact.php:43
+msgid "contact"
+msgstr "контакт"
+
+#: inc/class-config.php:122 inc/customize-configs/section-contact.php:8
+msgid "Section: Contact"
+msgstr "Розділ: Контакти"
+
+#: inc/customize-configs/section-news.php:292 section-parts/section-news.php:16
+msgid "Read Our Blog"
+msgstr "Читайте наш блог"
+
+#: inc/customize-configs/section-news.php:183
+msgid "Number of post to show"
+msgstr "Кількість записів для відображення"
+
+#: inc/class-config.php:148 inc/customize-configs/section-news.php:58
+#: section-parts/section-news.php:11
+msgid "Latest News"
+msgstr "Останні новини"
+
+#: inc/customize-configs/section-news.php:43
+msgid "news"
+msgstr "новини"
+
+#: inc/class-config.php:147 inc/customize-configs/section-news.php:8
+msgid "Section: News"
+msgstr "Розділ: Новини"
+
+#: inc/customize-configs/section-team.php:147
+msgid "Team members"
+msgstr "Учасники команди"
+
+#: inc/class-config.php:160 inc/customize-configs/section-team.php:57
+#: section-parts/section-team.php:4
+msgid "Our Team"
+msgstr "Наша команда"
+
+#: inc/customize-configs/section-team.php:42
+msgid "team"
+msgstr "команда"
+
+#: inc/class-config.php:159 inc/customize-configs/section-team.php:8
+msgid "Section: Team"
+msgstr "Розділ: Команда"
+
+#: inc/customize-configs/section-counter.php:150
+msgid "After number"
+msgstr "Після номеру"
+
+#: inc/customize-configs/section-counter.php:145
+msgid "Before number"
+msgstr "Перед номером"
+
+#: inc/customize-configs/section-counter.php:140
+msgid "Number"
+msgstr "Число"
+
+#: inc/customize-configs/section-counter.php:137
+msgid "Your counter label"
+msgstr "Мітка ваш лічильник"
+
+#: inc/customize-configs/section-counter.php:134
+#: inc/customize-configs/section-features.php:159
+#: inc/customize-configs/section-news.php:223
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/customize-configs/section-counter.php:125
+msgid "Counter content"
+msgstr "Вміст лічильника"
+
+#: inc/class-config.php:130 inc/customize-configs/section-counter.php:57
+#: section-parts/section-counter.php:4
+msgid "Our Numbers"
+msgstr "Наші цифри"
+
+#: inc/customize-configs/section-counter.php:42
+msgid "counter"
+msgstr "лічильник"
+
+#: inc/class-config.php:129 inc/customize-configs/section-counter.php:8
+msgid "Section: Counter"
+msgstr "Розділ: Лічильник"
+
+#: inc/customize-configs/section-features.php:163
+#: inc/customize-configs/section-services.php:161
+msgid "Custom icon"
+msgstr "Користувацька іконка"
+
+#: inc/customize-configs/section-services.php:152
+msgid "Service content"
+msgstr "Вміст Послуги"
+
+#: inc/class-config.php:154 inc/customize-configs/section-services.php:58
+#: section-parts/section-hero.php:93 section-parts/section-services.php:4
+msgid "Our Services"
+msgstr "Наші послуги"
+
+#: inc/customize-configs/section-services.php:43
+msgid "services"
+msgstr "послуги"
+
+#: inc/class-config.php:153 inc/customize-configs/section-services.php:8
+msgid "Section: Services"
+msgstr "Розділ: Послуги"
+
+#: inc/customize-configs/section-about.php:171
+#: inc/customize-configs/section-services.php:185
+msgid "Link to single page"
+msgstr "Посилання на окрему сторінку"
+
+#: inc/customize-configs/section-about.php:167
+msgid "Hide item title"
+msgstr "Приховати заголовок елементу"
+
+#: inc/customize-configs/section-about.php:162
+#: inc/customize-configs/section-services.php:180
+msgid "Select a page"
+msgstr "Обрати сторінку"
+
+#: inc/customize-configs/options-footer.php:76
+#: inc/customize-configs/section-about.php:157
+#: inc/customize-configs/section-counter.php:129
+#: inc/customize-configs/section-features.php:154
+#: inc/customize-configs/section-services.php:156
+#: inc/customize-configs/section-team.php:151
+msgid "[live_title]"
+msgstr "[live_title]"
+
+#: inc/customize-configs/section-about.php:132
+#: inc/customize-configs/section-contact.php:108
+#: inc/customize-configs/section-counter.php:105
+#: inc/customize-configs/section-features.php:130
+#: inc/customize-configs/section-gallery.php:125
+#: inc/customize-configs/section-services.php:132
+#: inc/customize-configs/section-team.php:127
+msgid "Section Content"
+msgstr "Вміст розділу"
+
+#: inc/customize-configs/section-about.php:78
+#: inc/customize-configs/section-contact.php:78
+#: inc/customize-configs/section-counter.php:77
+#: inc/customize-configs/section-features.php:78
+#: inc/customize-configs/section-gallery.php:91
+#: inc/customize-configs/section-news.php:78
+#: inc/customize-configs/section-services.php:78
+#: inc/customize-configs/section-team.php:77
+msgid "Section Subtitle"
+msgstr "Підзаголовок розділу"
+
+#: inc/customize-configs/section-about.php:73
+#: inc/customize-configs/section-contact.php:73
+#: inc/customize-configs/section-counter.php:72
+#: inc/customize-configs/section-features.php:73
+#: inc/customize-configs/section-gallery.php:85
+#: inc/customize-configs/section-news.php:73
+#: inc/customize-configs/section-services.php:73
+#: inc/customize-configs/section-team.php:72 section-parts/section-about.php:5
+#: section-parts/section-contact.php:5 section-parts/section-counter.php:5
+#: section-parts/section-gallery.php:5 section-parts/section-news.php:12
+#: section-parts/section-services.php:5 section-parts/section-team.php:5
+msgid "Section subtitle"
+msgstr "Підзаголовок розділу"
+
+#: inc/customize-configs/section-about.php:63
+#: inc/customize-configs/section-contact.php:63
+#: inc/customize-configs/section-counter.php:62
+#: inc/customize-configs/section-features.php:63
+#: inc/customize-configs/section-gallery.php:74
+#: inc/customize-configs/section-news.php:63
+#: inc/customize-configs/section-services.php:63
+#: inc/customize-configs/section-team.php:62
+msgid "Section Title"
+msgstr "Заголовок розділу"
+
+#: inc/customize-configs/section-about.php:43
+msgid "about"
+msgstr "Про"
+
+#: inc/customize-configs/section-about.php:17
+#: inc/customize-configs/section-contact.php:17
+#: inc/customize-configs/section-counter.php:17
+#: inc/customize-configs/section-features.php:17
+#: inc/customize-configs/section-gallery.php:22
+#: inc/customize-configs/section-news.php:17
+#: inc/customize-configs/section-services.php:17
+#: inc/customize-configs/section-team.php:17
+#: inc/customize-configs/section-videolightbox.php:17
+msgid "Section Settings"
+msgstr "Налаштування розділу"
+
+#: inc/class-config.php:116 inc/customize-configs/section-about.php:8
+msgid "Section: About"
+msgstr "Розділ: Про нас"
+
+#: inc/customize-configs/section-hero.php:505
+msgid "Button #2 Link"
+msgstr "Посилання Кнопки #2"
+
+#: inc/customize-configs/section-hero.php:500 section-parts/section-hero.php:96
+msgid "#contact"
+msgstr "#contact"
+
+#: inc/customize-configs/section-hero.php:491
+msgid "Button #2 Text"
+msgstr "Текст Кнопки #2"
+
+#: inc/customize-configs/section-hero.php:486 section-parts/section-hero.php:95
+msgid "Get Started"
+msgstr "Почати"
+
+#: inc/customize-configs/section-hero.php:440
+msgid "Button #1 Link"
+msgstr "Посилання Кнопки #1"
+
+#: inc/customize-configs/section-hero.php:435
+msgid "#about"
+msgstr "#about"
+
+#: inc/customize-configs/section-hero.php:426
+msgid "Button #1 Text"
+msgstr "Текст Кнопки #1"
+
+#: inc/class-config.php:117 inc/customize-configs/section-about.php:58
+#: inc/customize-configs/section-hero.php:421 section-parts/section-about.php:4
+msgid "About Us"
+msgstr "Про нас"
+
+#: inc/customize-configs/section-hero.php:413
+msgid "You can use text rotate slider in this textarea too."
+msgstr "Ви також можете використовувати свлайдер обертання тексту в цьому текстовому полі."
+
+#: inc/customize-configs/section-hero.php:410
+msgid "Small Text"
+msgstr "Маленький текст"
+
+#: inc/customize-configs/section-hero.php:363
+msgid "Text Rotating Guide: Put your rotate texts separate by \"|\" into <span class=\"js-rotating\">...</span>, go to Customizer -> Theme Options -> Section: Hero -> Hero Settings to control rotate animation."
+msgstr "Інструкція Обертання тексту: Помістіть текст обертання розділений \"|\" у <span class=\"js-rotating\">...</span>, перейдіть у Налаштовувач -> Налаштування теми -> Розділ: Головний -> Налаштування Головний для керування анімацією поворота."
+
+#: inc/customize-configs/section-hero.php:361
+msgid "Large Text"
+msgstr "Великий текст"
+
+#: inc/customize-configs/section-hero.php:321
+msgid "Hero Content Layout"
+msgstr "Шаблон вмісту Головний"
+
+#: inc/customize-configs/section-hero.php:248
+msgid "Background Image"
+msgstr "Фонове зображення"
+
+#: inc/customize-configs/options-footer.php:160
+#: inc/customize-configs/options-footer.php:346
+#: inc/customize-configs/section-hero.php:243
+msgid "Background"
+msgstr "Фон"
+
+#: inc/customize-configs/section-hero.php:239
+msgid "Background Images"
+msgstr "Зображення фону"
+
+#: inc/customize-configs/section-hero.php:213
+msgid "Hero Background Media"
+msgstr "Медіа фону Головний"
+
+#: inc/customize-configs/section-hero.php:111
+msgid "Padding Bottom:"
+msgstr "Внутрішній відступ знизу:"
+
+#: inc/customize-configs/section-hero.php:95
+msgid "Padding Top:"
+msgstr "Внутрішній відступ зверху:"
+
+#: inc/customize-configs/section-hero.php:90
+#: inc/customize-configs/section-hero.php:106
+msgid "10"
+msgstr "10"
+
+#: inc/customize-configs/section-hero.php:67
+msgid "Check this box to make hero section full screen."
+msgstr "Відмітьте щоб зробити розділ Головний на весь екран."
+
+#: inc/customize-configs/section-hero.php:65
+msgid "Make hero section full screen"
+msgstr "Зробити розділ Головний на весь екран"
+
+#: inc/customize-configs/section-about.php:48
+#: inc/customize-configs/section-contact.php:48
+#: inc/customize-configs/section-counter.php:47
+#: inc/customize-configs/section-features.php:48
+#: inc/customize-configs/section-gallery.php:57
+#: inc/customize-configs/section-hero.php:49
+#: inc/customize-configs/section-news.php:48
+#: inc/customize-configs/section-services.php:48
+#: inc/customize-configs/section-team.php:47
+#: inc/customize-configs/section-videolightbox.php:48
+msgid "Section ID:"
+msgstr "ID розділу:"
+
+#: inc/customize-configs/section-hero.php:44
+msgid "hero"
+msgstr "головний"
+
+#: inc/customize-configs/section-about.php:35
+#: inc/customize-configs/section-contact.php:35
+#: inc/customize-configs/section-counter.php:34
+#: inc/customize-configs/section-features.php:35
+#: inc/customize-configs/section-gallery.php:42
+#: inc/customize-configs/section-hero.php:37
+#: inc/customize-configs/section-news.php:35
+#: inc/customize-configs/section-services.php:35
+#: inc/customize-configs/section-team.php:35
+#: inc/customize-configs/section-videolightbox.php:35
+msgid "Check this box to hide this section."
+msgstr "Відмітьте щоб приховати цей розділ."
+
+#: inc/customize-configs/section-about.php:33
+#: inc/customize-configs/section-contact.php:33
+#: inc/customize-configs/section-counter.php:32
+#: inc/customize-configs/section-features.php:33
+#: inc/customize-configs/section-gallery.php:40
+#: inc/customize-configs/section-hero.php:35
+#: inc/customize-configs/section-news.php:33
+#: inc/customize-configs/section-services.php:33
+#: inc/customize-configs/section-team.php:33
+#: inc/customize-configs/section-videolightbox.php:33
+msgid "Hide this section?"
+msgstr "Приховати цей розділ?"
+
+#: inc/customize-configs/section-hero.php:19
+msgid "Hero Settings"
+msgstr "Налаштування Головний"
+
+#: inc/class-config.php:110 inc/customize-configs/section-hero.php:9
+msgid "Section: Hero"
+msgstr "Розділ: Головний"
+
+#: inc/customize-configs/options-footer.php:145
+msgid "MailChimp Action URL"
+msgstr "Посилання до дії MailChimp"
+
+#: inc/customize-configs/options-footer.php:129
+msgid "Newsletter Form Title"
+msgstr "Заголовок форми підписки на розсилку"
+
+#: inc/customize-configs/options-footer.php:115
+msgid "Check this box to hide footer newsletter form."
+msgstr "Відмітьте щоб приховати форму підписки на розсилку у підвалі."
+
+#: inc/customize-configs/options-footer.php:113
+msgid "Hide Footer Newsletter?"
+msgstr "Приховати форму підписки на розсилку?"
+
+#: inc/customize-configs/options-footer.php:52
+msgid "Social Footer Title"
+msgstr "Заголовок соціальні мережи у підвалі"
+
+#: inc/customize-configs/options-footer.php:38
+msgid "The social profiles specified below will be displayed in the footer of your site."
+msgstr "Наведені нижче соціальні профілі відображатимуться у підвалі вашого сайту."
+
+#: inc/customize-configs/options-footer.php:25
+msgid "Check this box to hide footer social section."
+msgstr "Відмітьте щоб приховати соціальні мережи у підвалі."
+
+#: inc/customize-configs/options-footer.php:23
+msgid "Hide Footer Social?"
+msgstr "Приховати соціальні мережи у підвалі?"
+
+#: inc/customize-configs/options-global.php:66
+msgid "Check this box to hide footer back to top button."
+msgstr "Відмітьте щоб приховати кнопку Повернутись вверх у підвалі."
+
+#: inc/customize-configs/options-global.php:64
+msgid "Hide footer back to top?"
+msgstr "Приховати кнопку Повернутись вверх?"
+
+#: inc/customize-configs/options-global.php:49
+msgid "Check this box to disable all element animation when scroll."
+msgstr "Відмітьте щоб приховати усі елементи анімації при прокручуванні."
+
+#: inc/customize-configs/options-global.php:47
+msgid "Disable animation effect?"
+msgstr "Приховати ефекти анімації?"
+
+#: inc/customize-configs/options-global.php:7
+msgid "Global"
+msgstr "Загальний"
+
+#: inc/customize-configs/options.php:14
+msgid "Theme Options"
+msgstr "Параметри теми"
+
+#: inc/customizer.php:71
+msgid "Select member"
+msgstr "Оберіть учасника"
+
+#: inc/customizer.php:60
+msgid "Select page"
+msgstr "Виберіть сторінку"
+
+#: inc/customize-controls/control-repeater.php:357
+msgid "Close"
+msgstr "Закрити"
+
+#: inc/customize-controls/control-repeater.php:322
+msgid "Change"
+msgstr "Змінити"
+
+#: inc/customize-controls/control-repeater.php:322
+msgid "Add"
+msgstr "Додати"
+
+#: inc/customize-controls/control-repeater.php:321
+#: inc/customize-controls/control-repeater.php:343
+#: inc/customize-controls/control-repeater.php:355
+msgid "Remove"
+msgstr "Видалити"
+
+#: inc/customize-controls/control-repeater.php:76
+#: inc/customize-controls/control-repeater.php:205
+msgid "Item"
+msgstr "Позиція"
+
+#: inc/customize-controls/control-repeater.php:190
+msgid "Add an item"
+msgstr "Додати елемент"
+
+#: inc/template-tags.php:228
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Перейти до вмісту"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:399
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:392
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:203
+msgid "Sidebar"
+msgstr "Бічна колонка"
+
+#: functions.php:62
+msgid "Primary Menu"
+msgstr "Головне меню"
+
+#: inc/template-tags.php:1537
+msgid "%1$s theme by %2$s"
+msgstr "Тема %1$s від %2$s"
+
+#: inc/template-tags.php:1535
+msgid "Copyright %1$s %2$s %3$s"
+msgstr "Авторське право %1$s %2$s %3$s"
+
+#: footer.php:44
+msgid "Back To Top"
+msgstr "Повернутись вверх"
+
+#: inc/customize-configs/options-footer.php:123 inc/template-tags.php:1807
+msgid "Join our Newsletter"
+msgstr "Підпишіться на наші новини"
+
+#: inc/customize-configs/options-footer.php:46 inc/template-tags.php:1826
+msgid "Keep Updated"
+msgstr "Тримайте оновленим"
+
+#: comments.php:93
+msgid "Comments are closed."
+msgstr "Коментарі закриті."
+
+#: comments.php:59 comments.php:81
+msgid "Newer Comments"
+msgstr "Новіші коментарі"
+
+#: comments.php:58 comments.php:80
+msgid "Older Comments"
+msgstr "Попередні коментарі"
+
+#: comments.php:55 comments.php:77
+msgid "Comment navigation"
+msgstr "Навігація по коментарях"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s коментар до &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s коментаря до &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s коментарів до &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Перегляньте архіви по місяцям %1$s"
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "Популярні категорії"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Нічого не знайдено. Спробуйте використати один з наведених нижче посилань, або скористайтесь форму пошуку."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Отакої! Цю сторінку не знайдено."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "http://www.famethemes.com"
+msgstr "http://www.famethemes.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.famethemes.com/themes/onepress/"
+msgstr "https://www.famethemes.com/themes/onepress/"
